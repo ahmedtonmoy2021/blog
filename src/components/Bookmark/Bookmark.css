@@ -1,0 +1,40 @@
+.spent-text{
+    color: #4e36d3;
+    
+}
+
+
+
+.bookmark{
+    margin-top: 10px;
+    height: 0px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color:rgba(17, 17, 17, 0.05);
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bold; 
+    font-size: 18px;
+    
+    
+}
+
+.spent-time{
+    background-color: rgba(123, 100, 253, 0.153);
+    border-radius: 5px;
+    border:1px solid #6047EC;
+    padding: 14px;
+    height:50px;
+    width: 100%;
+    align-items: center;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bold;   
+    
+}
+
+.bookmark-text{
+    margin-top: 10px;
+    font-size: 15px;
+    padding: 5px;
+    margin: 10px;
+    width: 100%;
+}

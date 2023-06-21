@@ -1,0 +1,49 @@
+.container{
+    margin-top: 10px;
+    display: flex;
+    box-sizing: border-box;
+    gap: 20px;
+
+}
+
+.first-container{
+    width: 55%;
+    margin-left: 10%;
+}
+
+.second-container{
+    width: 25%;
+    margin-right: 5%;
+    position: sticky;
+}
+
+
+
+.spent-time{
+    background-color: rgba(123, 100, 253, 0.153);
+    border-radius: 5px;
+    border:1px solid #6047EC;
+    padding: 14px;
+    height:50px;
+    width: 100%;
+    align-items: center;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bold;   
+}
+
+.spent-text{
+    color: #4e36d3;
+    
+}
+
+.bookmark{
+    margin-top: 10px;
+    height: 100px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color:rgba(17, 17, 17, 0.05);
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bold; 
+    font-size: 18px;
+    
+}

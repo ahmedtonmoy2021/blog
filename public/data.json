@@ -1,0 +1,58 @@
+[
+  {
+    "id": "648f4a8a04cbfb0bbff21313",
+    "picture": "/images/image5.jpg",
+    "avater": "./images/av1.jpg",
+    "name": "Mr.Raju",
+    "Tag": "#Beginners #Programming",
+    "title": "Pragmatic Thinking and Learning - Andy Hunt",
+    "read": "Mark as Read",
+    "Time": 10,
+    "mark": "Pragmatic Thinking and Learning - Andy Hunt"
+  },
+  {
+    "id": "648f4a8a489ad25ebde3657e",
+    "picture": "/images/image2.jpg",
+    "avater": "./images/av2.jpg",
+    "Tag": "#Beginners #Programming",
+    "name": "Finley Alexander",
+    "title": "The Effective Engineer - Edmund Lau",
+    "read": "Mark as Read",
+    "Time": 13,
+    "mark": "The Effective Engineer - Edmund Lau"
+  },
+  {
+    "id": "648f4a8a89ff67f47303ad6a",
+    "picture": "images/image-1.jpg",
+    "avater": "./images/av3.jpg",
+    "name": "Robert Gillespie",
+    "read": "Mark as Read",
+    "title": "Coders at Work - Peter Seibel",
+    "Tag": "#Beginners #Programming",
+    "mark": "Coders at Work - Peter Seibel",
+    "Time": 11
+  },
+  {
+    "id": "648f4a8aa29f89ecf0db614a",
+    "picture": "images/image3.jpg",
+    "avater": "./images/av4.jpg",
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma",
+    "Tag": "#Beginners #Programming",
+    "name": "Stacie Cooke",
+    "mark": "Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma",
+    "Time": 7
+    
+  },
+  {
+    "id": "648f4a8ab6f1fe90af521fce",
+    "picture": "images/image4.jpg",
+    "title": "Developer Hegemony - Eric Dietrich",
+    "avater": "./images/av5.jpg",
+    "Tag": "#Beginners #Programming",
+    "name": "Lisa Hopkins",
+    "read": "Mark as Read",
+    "mark": "Developer Hegemony - Eric Dietrich",
+    "Time": 5
+   
+  }
+]
